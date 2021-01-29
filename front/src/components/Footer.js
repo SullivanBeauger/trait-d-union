@@ -21,13 +21,7 @@ const Footer = () => {
                 </p>
 
                 <p>
-                  Nous sommes une petite équipe de 4 personnes, travaillant ensemble à la DINUM (Paris)
-                  et à la Région Grand Est (Metz) depuis début 2019.
-                </p>
-                <p>
-                  La région Grand Est finance la formation de 50 000 personnes en recherche d’emploi par an. Cependant, 45%
-                  des stagiaires ne sont pas dans une situation d'emploi 1 an après la fin de la formation. C'est de ce
-                  constat qu'est né Trait d'union.
+                  Trait d'Union est un service créé par la Région Grand-Est compétente en Formation Professionnelle, qui a financé la formation de 49 400 personnes en recherche d'emploi en 2020. Trait d'union est un service qui offre la possibilité de cumuler formation certifiante et immersion en entreprise, renforçant les possibilités de signer un contrat de travail à l'issue.
                 </p>
               </div>
             </div>
@@ -38,9 +32,7 @@ const Footer = () => {
                 <ul>
                 <li><Link smooth to="/candidats#root">Espace candidat</Link></li>
                 <li> <Link smooth to="/entreprises#root">Espace entreprise</Link></li>
-                <li><a target="_blank" rel="noopener noreferrer" href="http://metabase.traitdunion.beta.gouv.fr/public/dashboard/804877c6-a815-4061-8858-feffda560130">Statistiques</a></li>
-                  <li><a target="_blank" rel="noopener noreferrer" href="https://www.grandest.fr">Région Grand Est</a></li>
-                  <li><a target="_blank" rel="noopener noreferrer" href="https://beta.gouv.fr">Beta.gouv.fr</a></li>
+                <li><a target="_blank" rel="noopener noreferrer" href="https://www.grandest.fr">Région Grand Est</a></li>
                   <li>
                     <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/traitdunion.beta.gouv.fr/" title="Facebook">
                       <i className="fab fa-facebook-square" style={{fontSize: "4rem",  marginRight:"1rem" }}></i>

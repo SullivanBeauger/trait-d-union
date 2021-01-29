@@ -175,9 +175,7 @@ const HomeEntreprises = () => {
                                       rel="noopener noreferrer">télécharger</a>)
                   </li>
                   <br/>
-                  <li><b>Est-ce gratuit ?</b> : oui, ce site est financé par la Région Grand Est en partenariat avec
-                    beta.gouv.fr (DINUM). Les candidats sont payés par Pôle emploi.
-                  </li>
+                  <li><b>Ce service est-il gratuit ?</b> : oui, ce site est financé par la Région Grand Est. Les candidats effectuant une immersion perçoivent leurs indemnités Pôle emploi, s'ils y sont éligibles.</li>
                   <br/>
                   <li><b>J'ai d'autres questions</b> : pas de soucis, chattez avec nous en cliquant sur l'icône de
                     discussion en bas à droite. On essaie de répondre rapidement.

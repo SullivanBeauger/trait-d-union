@@ -128,15 +128,13 @@ const HomeCandidats = () => {
                 <div className="col-md-3 col-sm-6 col-xs-12" style={{ padding: '0px', margin: '1em 0 1em 0' }}>
                   <span className="number">3</span>
                   <h3>Je découvre un job</h3>
-                  <p style={{ margin: '5px' }}>Un métier vous intéresse? Candidatez et partez ensuite en immersion (<a
-                    href="https://clara.pole-emploi.fr/aides/detail/pmsmp?utm_source=traitdunion" style={{ color: '#0053B3', textDecoration: 'underline'}} target="_blank">PMSMP</a>) de 1 à 3 jours.
-                    Vous n'êtes pas payé par l'entreprise mais continuez à toucher vos indemnités de chômage</p>
+                  <p style={{ margin: '5px' }}>Un métier vous intéresse? Candidatez et partez ensuite en stage entre 1 à 3 jours.
+                    Vous n'êtes pas payé par l'entreprise mais continuez à toucher vos indemnités de chômage, si vous y êtes éligibles</p>
                 </div>
                 <div className="col-md-3 col-sm-6 col-xs-12" style={{ padding: '0px', margin: '1em 0 1em 0' }}>
                   <span className="number">4</span>
                   <h3>Je me forme</h3>
-                  <p style={{ margin: '5px' }} >Le test a été concluant? La Région Grand Est finance gratuitement votre formation
-                    pour ce métier. Vous trouverez rapidement un travail ensuite</p>
+                  <p style={{ margin: '5px' }} >Le test a été concluant? La Région Grand Est finance votre formation professionnelle. Votre qualification vous permettra de trouver un emploi correspondant aux compétences recherchées par les entreprises locales.</p>
                 </div>
               </div>
             </div>

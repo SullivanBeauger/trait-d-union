@@ -52,7 +52,7 @@ const Login = () => {
                 </div>
 
                 <div style={{height: '50px',marginBottom: '30px'}} >
-                  <p>✅ Une formation gratuite est proposée si besoin pour les demandeurs d'emploi et les jeunes.</p>
+                  <p>✅ Des formations financées par la Région sont proposées aux demandeurs d’emplois et aux jeunes (expérience préalable requise).</p>
                 </div>
 
 
