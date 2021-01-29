@@ -8,8 +8,7 @@ const Home = () => {
         <div className="row ">
           <div className="col-md-5 col-xs-12">
             <h2 style={{ paddingTop: '1em' }}>Espace entreprise</h2>
-            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Découvrez comment vous pouvez  mieux
-              recruter
+            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Recrutez un collaborateur avec les compétences qu'il vous faut !<br/>POSTEZ UNE OFFRE DE STAGE
             </h4>
 
             <img alt="espace entreprise" width="100%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/deal_handshakes.svg"/>
@@ -46,8 +45,7 @@ const Home = () => {
           <div className="col-md-2 col-xs-1"></div>
           <div className="col-md-5  col-xs-12" style={{ marginLeft: '0px' }}>
             <h2 style={{ paddingTop: '1em' }}>Espace candidat</h2>
-            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Essayez des métiers qui recrutent et forment à côté de
-              chez vous
+            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Trouvez un emploi grâce à une formation qualifiante.<br />RENCONTREZ UNE ENTREPRISE
             </h4>
             <center>
               <img alt="espace candidats" width="64.4%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/decide.svg"/>
