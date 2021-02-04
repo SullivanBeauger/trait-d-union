@@ -45,7 +45,7 @@ const Home = () => {
           <div className="col-md-2 col-xs-1"></div>
           <div className="col-md-5  col-xs-12" style={{ marginLeft: '0px' }}>
             <h2 style={{ paddingTop: '1em' }}>Espace candidat</h2>
-            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Trouvez un emploi grâce à une formation qualifiante.<br />RENCONTREZ UNE ENTREPRISE
+            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Trouvez un emploi grâce à une formation qualifiante.
             </h4>
             <center>
               <img alt="espace candidats" width="64.4%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/decide.svg"/>
@@ -74,7 +74,7 @@ const Home = () => {
                 WebkitFontSmoothing: 'antialiased',
                 MozOsxFontSmoothing: 'grayscale'
               }}>
-                <i className="fas fa-user"/> Je suis un candidat
+                <i className="fas fa-user"/> RENCONTREZ UNE ENTREPRISE
               </Link>
             </div>
           </div>

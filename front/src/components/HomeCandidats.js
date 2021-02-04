@@ -128,7 +128,7 @@ const HomeCandidats = () => {
                 <div className="col-md-3 col-sm-6 col-xs-12" style={{ padding: '0px', margin: '1em 0 1em 0' }}>
                   <span className="number">3</span>
                   <h3>Je découvre un job</h3>
-                  <p style={{ margin: '5px' }}>Un métier vous intéresse? Candidatez et partez ensuite en stage entre 1 à 3 jours.
+                  <p style={{ margin: '5px' }}>Un métier vous intéresse? Candidatez et partez ensuite en stage pendant 1 à 3 jours.
                     Vous n'êtes pas payé par l'entreprise mais continuez à toucher vos indemnités de chômage, si vous y êtes éligibles.</p>
                 </div>
                 <div className="col-md-3 col-sm-6 col-xs-12" style={{ padding: '0px', margin: '1em 0 1em 0' }}>
