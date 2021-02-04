@@ -8,7 +8,7 @@ const Home = () => {
         <div className="row ">
           <div className="col-md-5 col-xs-12">
             <h2 style={{ paddingTop: '1em' }}>Espace entreprise</h2>
-            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Recrutez un collaborateur avec les compétences qu'il vous faut !<br/>POSTEZ UNE OFFRE DE STAGE
+            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Recrutez un collaborateur avec les compétences qu'il vous faut !
             </h4>
 
             <img alt="espace entreprise" width="100%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/deal_handshakes.svg"/>
@@ -38,7 +38,7 @@ const Home = () => {
                       WebkitFontSmoothing: 'antialiased',
                       MozOsxFontSmoothing: 'grayscale'
                     }}>
-                <i className="fas fa-building"/> Je suis une entreprise
+                <i className="fas fa-building"/> POSTEZ UNE OFFRE DE STAGE
               </Link>
             </div>
           </div>
