@@ -11,7 +11,7 @@ const Home = () => {
             <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Recrutez un collaborateur avec les compétences qu'il vous faut !
             </h4>
 
-            <img alt="espace entreprise" width="100%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/deal_handshakes.svg"/>
+            <img alt="espace entreprise" width="100%" src="https://l.traitdunion.grandest.fr/candidats/images/deal_handshakes.svg"/>
 
             <div style={{ paddingTop: '1em', paddingBottom: '1em' }}>
               <Link to="/entreprises" className="button large btn-xl"
@@ -48,7 +48,7 @@ const Home = () => {
             <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Trouvez un emploi grâce à une formation qualifiante.
             </h4>
             <center>
-              <img alt="espace candidats" width="64.4%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/decide.svg"/>
+              <img alt="espace candidats" width="64.4%" src="https://l.traitdunion.grandest.fr/candidats/images/decide.svg"/>
             </center>
             <div style={{ paddingTop: '1em', paddingBottom: '1em' }}>
               <Link to="/candidats" className="button large btn-xl" style={{

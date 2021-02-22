@@ -47,55 +47,55 @@ const HomeCandidats = () => {
               <div className="slider">
                 <figure>
                   <a className="effect">
-                    <img alt="ad" src="https://l.traitdunion.beta.gouv.fr/candidats/images/customer_success.svg"/>
+                    <img alt="ad" src="https://l.traitdunion.grandest.fr/candidats/images/customer_success.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/waitress.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/waitress.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/bus_driver.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/bus_driver.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/accountant.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/accountant.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/construction_worker.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/construction_worker.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/chef.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/chef.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/customer_service.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/customer_service.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/web_developer.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/web_developer.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/bartender.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/bartender.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/financial_analyst.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/financial_analyst.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/health_3.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/health_3.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/game_of_throne_-_dany.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/game_of_throne_-_dany.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/receptionist.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/receptionist.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/watering_plants.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/watering_plants.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/real_estate_agent.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/real_estate_agent.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/factory_worker.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/factory_worker.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/yoga_position_4.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/yoga_position_4.svg"/>
                   </a>
                 </figure>
               </div>

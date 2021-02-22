@@ -46,22 +46,22 @@ const HomeEntreprises = () => {
               <div className="slider">
                 <figure>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/user_group.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/user_group.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/user_profile.svg" />
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/user_profile.svg" />
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/user_status.svg" />
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/user_status.svg" />
                   </a>
                 <a className="effect">
-                      <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/word_of_mouth.svg" />
+                      <img src="https://l.traitdunion.grandest.fr/candidats/images/word_of_mouth.svg" />
                     </a>
                     <a className="effect">
-                      <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/personal_data_2.svg" />
+                      <img src="https://l.traitdunion.grandest.fr/candidats/images/personal_data_2.svg" />
                     </a>
                     <a className="effect">
-                      <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/complete_task_1.svg" />
+                      <img src="https://l.traitdunion.grandest.fr/candidats/images/complete_task_1.svg" />
                     </a>
                   </figure>
                 <figcaption/>
