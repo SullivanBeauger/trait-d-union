@@ -47,55 +47,55 @@ const HomeCandidats = () => {
               <div className="slider">
                 <figure>
                   <a className="effect">
-                    <img alt="ad" src="https://l.traitdunion.beta.gouv.fr/candidats/images/customer_success.svg"/>
+                    <img alt="ad" src="https://l.traitdunion.grandest.fr/candidats/images/customer_success.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/waitress.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/waitress.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/bus_driver.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/bus_driver.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/accountant.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/accountant.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/construction_worker.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/construction_worker.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/chef.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/chef.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/customer_service.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/customer_service.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/web_developer.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/web_developer.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/bartender.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/bartender.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/financial_analyst.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/financial_analyst.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/health_3.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/health_3.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/game_of_throne_-_dany.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/game_of_throne_-_dany.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/receptionist.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/receptionist.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/watering_plants.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/watering_plants.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/real_estate_agent.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/real_estate_agent.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/factory_worker.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/factory_worker.svg"/>
                   </a>
                   <a className="effect">
-                    <img src="https://l.traitdunion.beta.gouv.fr/candidats/images/yoga_position_4.svg"/>
+                    <img src="https://l.traitdunion.grandest.fr/candidats/images/yoga_position_4.svg"/>
                   </a>
                 </figure>
               </div>
@@ -128,15 +128,13 @@ const HomeCandidats = () => {
                 <div className="col-md-3 col-sm-6 col-xs-12" style={{ padding: '0px', margin: '1em 0 1em 0' }}>
                   <span className="number">3</span>
                   <h3>Je découvre un job</h3>
-                  <p style={{ margin: '5px' }}>Un métier vous intéresse? Candidatez et partez ensuite en immersion (<a
-                    href="https://clara.pole-emploi.fr/aides/detail/pmsmp?utm_source=traitdunion" style={{ color: '#0053B3', textDecoration: 'underline'}} target="_blank">PMSMP</a>) de 1 à 3 jours.
-                    Vous n'êtes pas payé par l'entreprise mais continuez à toucher vos indemnités de chômage</p>
+                  <p style={{ margin: '5px' }}>Un métier vous intéresse? Candidatez et partez ensuite en stage pendant 1 à 3 jours.
+                    Vous n'êtes pas payé par l'entreprise mais continuez à toucher vos indemnités de chômage, si vous y êtes éligibles.</p>
                 </div>
                 <div className="col-md-3 col-sm-6 col-xs-12" style={{ padding: '0px', margin: '1em 0 1em 0' }}>
                   <span className="number">4</span>
                   <h3>Je me forme</h3>
-                  <p style={{ margin: '5px' }} >Le test a été concluant? La Région Grand Est finance gratuitement votre formation
-                    pour ce métier. Vous trouverez rapidement un travail ensuite</p>
+                  <p style={{ margin: '5px' }} >Le test a été concluant? La Région Grand Est finance votre formation professionnelle. Votre qualification vous permettra de trouver un emploi correspondant aux compétences recherchées par les entreprises locales.</p>
                 </div>
               </div>
             </div>

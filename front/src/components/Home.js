@@ -8,11 +8,10 @@ const Home = () => {
         <div className="row ">
           <div className="col-md-5 col-xs-12">
             <h2 style={{ paddingTop: '1em' }}>Espace entreprise</h2>
-            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Découvrez comment vous pouvez  mieux
-              recruter
+            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Recrutez un collaborateur avec les compétences qu'il vous faut !
             </h4>
 
-            <img alt="espace entreprise" width="100%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/deal_handshakes.svg"/>
+            <img alt="espace entreprise" width="100%" src="https://l.traitdunion.grandest.fr/candidats/images/deal_handshakes.svg"/>
 
             <div style={{ paddingTop: '1em', paddingBottom: '1em' }}>
               <Link to="/entreprises" className="button large btn-xl"
@@ -39,18 +38,17 @@ const Home = () => {
                       WebkitFontSmoothing: 'antialiased',
                       MozOsxFontSmoothing: 'grayscale'
                     }}>
-                <i className="fas fa-building"/> Je suis une entreprise
+                <i className="fas fa-building"/> POSTEZ UNE OFFRE DE STAGE
               </Link>
             </div>
           </div>
           <div className="col-md-2 col-xs-1"></div>
           <div className="col-md-5  col-xs-12" style={{ marginLeft: '0px' }}>
             <h2 style={{ paddingTop: '1em' }}>Espace candidat</h2>
-            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Essayez des métiers qui recrutent et forment à côté de
-              chez vous
+            <h4 style={{ paddingTop: '1em', paddingBottom: '1em', color: 'grey' }}>Trouvez un emploi grâce à une formation qualifiante.
             </h4>
             <center>
-              <img alt="espace candidats" width="64.4%" src="https://l.traitdunion.beta.gouv.fr/candidats/images/decide.svg"/>
+              <img alt="espace candidats" width="64.4%" src="https://l.traitdunion.grandest.fr/candidats/images/decide.svg"/>
             </center>
             <div style={{ paddingTop: '1em', paddingBottom: '1em' }}>
               <Link to="/candidats" className="button large btn-xl" style={{
@@ -76,7 +74,7 @@ const Home = () => {
                 WebkitFontSmoothing: 'antialiased',
                 MozOsxFontSmoothing: 'grayscale'
               }}>
-                <i className="fas fa-user"/> Je suis un candidat
+                <i className="fas fa-user"/> RENCONTREZ UNE ENTREPRISE
               </Link>
             </div>
           </div>

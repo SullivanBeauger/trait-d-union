@@ -12,7 +12,7 @@ const Header = (props = { homeLink: '/' }) => {
             <div className="header-top">
               <div className="logo-area">
                 <Link to={homeLink}>
-                  <img src="/logo.png" alt="logo région grand est "/>
+                  <img src="/logo-ge.png" alt="logo région grand est "/>
                 </Link>
               </div>
             </div>
