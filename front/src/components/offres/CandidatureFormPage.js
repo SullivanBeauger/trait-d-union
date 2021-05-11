@@ -62,7 +62,7 @@ function redirectToOffresListIfOffreIsNotValid (router, fetchOffre) {
       title: 'Cette offre n\'est plus disponible. Vous allez être redirigé vers la liste des offres.',
       confirmButtonText: 'OK',
       onClose: () => router.push('/offres'),
-      footer: '<a href="mailto:contact@traitdunion.beta.gouv.fr">Nous contacter</a>'
+      footer: '<a href="mailto:contact@traitdunion.grandest.fr">Nous contacter</a>'
     })
   })
 }

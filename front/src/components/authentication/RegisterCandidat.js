@@ -33,7 +33,7 @@ const RegisterCandidat = () => {
         icon: 'error',
         title: 'Oh non ! Une erreur s\'est produite. Merci de réessayer ultérieurement.',
         confirmButtonText: 'OK',
-        footer: '<a href="mailto:contact@traitdunion.beta.gouv.fr">Nous contacter</a>'
+        footer: '<a href="mailto:contact@traitdunion.grandest.fr">Nous contacter</a>'
       })
     }
   }
