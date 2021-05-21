@@ -69,7 +69,7 @@ const PostOffre = () => {
                         </div>
                       </div>
                       <div className="form-group row" hidden={false}>
-                        <label className="col-md-3 col-form-label">Code ROME ?</label>
+                        <label className="col-md-3 col-form-label">Code ROME (optionnel) ?</label>
                         <div className="col-md-9">
                           <input type="text"
                                  name="codeROME"
