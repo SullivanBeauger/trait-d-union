@@ -13,7 +13,7 @@ module.exports = ({ Metier, Diplome, Offre, Candidature, Candidat }) => async (u
         where: { id: userId }
       }]
     }, {
-      required: true,
+      required: false,
       model: Metier,
       include: [{
         model: Diplome,

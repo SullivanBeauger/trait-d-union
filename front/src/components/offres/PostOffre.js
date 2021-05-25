@@ -36,7 +36,7 @@ const PostOffre = () => {
         icon: 'error',
         title: 'Oh non ! Une erreur s\'est produite. Merci de réessayer ultérieurement.',
         confirmButtonText: 'OK',
-        footer: '<a href="mailto:contact@traitdunion.beta.gouv.fr">Nous contacter</a>'
+        footer: '<a href="mailto:contact@traitdunion.grandest.fr">Nous contacter</a>'
       })
     }
   }
@@ -68,13 +68,13 @@ const PostOffre = () => {
                           />
                         </div>
                       </div>
-                      <div className="form-group row" hidden={true}>
-                        <label className="col-md-3 col-form-label">Code ROME ?</label>
+                      <div className="form-group row" hidden={false}>
+                        <label className="col-md-3 col-form-label">Code ROME (optionnel) ?</label>
                         <div className="col-md-9">
                           <input type="text"
                                  name="codeROME"
                                  className="form-control"
-                                 placeholder="Exemple : 57100"
+                                 placeholder="Exemple : G1101"
                                  ref={register({ required: false })}
                           />
                         </div>
